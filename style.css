@@ -350,7 +350,6 @@
 @media (min-width: 321px) and (max-width: 768px) {
     .heading {
         margin-right: 16px;
-        overflow-x: scroll;
     }
     .heading_logo {
         order: 1;
